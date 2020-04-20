@@ -15,7 +15,7 @@ INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 199
 INSERT INTO books (title, year, series_id) VALUES ("The Goblet of Fire", 2000, 2);
 
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Harry Potter", "The Boy Who Lived", "Wizard", 2);
-INSERT INTO characters (name, motto, species, author_id) VALUES ("Hagrid", "The Gentle Giant", "Giant", 2;
+INSERT INTO characters (name, motto, species, author_id) VALUES ("Hagrid", "The Gentle Giant", "Giant", 2);
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Fluffy", "A bit of music puts em right to sleep", "Three-Headed Dog", 2);
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Gilderoy Lockhart", "Me!", "Wizard", 2);
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Frodo Baggins", "The Bravest Hobbit", "Hobbit", 1);
