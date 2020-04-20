@@ -23,7 +23,6 @@ CREATE TABLE characters (
   motto TEXT,
   species TEXT,
   author_id INTEGER,
-  series_id INTEGER
 );
 
 CREATE TABLE subgenres (
